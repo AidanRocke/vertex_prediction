@@ -3,7 +3,7 @@
 """
 Created on Thu Jul 19 02:50:24 2018
 
-@author: aidanrocke
+source: https://github.com/titu1994/Keras-Group-Normalization
 """
 
 from keras.engine import Layer, InputSpec
